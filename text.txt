@@ -1,0 +1,13 @@
+Chức năng:
+    Admin: 
+        Thống kê,
+        Crud danh mục, chuyên mục, sản phẩm, bài viết, các thuộc tính sản phẩm
+        Quản trị người dùng, đơn hàng
+        Đăng nhập
+        Phân trang 
+    Client:
+        Đăng ký, đăng nhập
+        Lọc sản phẩm
+        Phân trang
+        Mua hàng
+    Các chức năng khác đang phát triển
