@@ -1,5 +1,6 @@
 Chức năng:
     Admin: 
+    đăng nhập admin: tại trang chủ /admin-login để vào trang đăng nhập
         Thống kê,
         Crud danh mục, chuyên mục, sản phẩm, bài viết, các thuộc tính sản phẩm
         Quản trị người dùng, đơn hàng
@@ -10,4 +11,5 @@ Chức năng:
         Lọc sản phẩm
         Phân trang
         Mua hàng
+        xem bài viết
     Các chức năng khác đang phát triển
